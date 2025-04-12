@@ -24,8 +24,6 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![GSAP (soon)](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 ### Backend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,6 +36,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Three.js (target)](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![GSAP (soon)](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 ---
 
