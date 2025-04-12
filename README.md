@@ -2,7 +2,7 @@
 
 <p align="center">
   Développeur web fullstack en pleine exploration 🔍 <br>
-  Fan de frontend **et** de backend, toujours un mug à la main 🍵
+  Fan de frontend et de backend, toujours un mug à la main 🍵
 </p>
 
 ---
@@ -37,12 +37,21 @@
 
 ---
 
+## 📂 Projets en cours
 
-## 📈 Stats GitHub
+> 🚧 En construction — toujours en train d’apprendre et d’expérimenter.<br>
+> 🛠️ Mes repos reflètent mon parcours en évolution constante.
+
+---
+
+## 🧠 Ambiance et univers
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mattia-FR&show_icons=true&theme=tokyonight" />
+  <img src="https://c.tenor.com/8pd97a2u_r0AAAAd/tenor.gif" width="300" alt="Ghost in the Shell SAC" />
 </p>
+
+> *“Close the World, Open the nExt.”*  
+> — **Serial Experiments Lain**
 
 ---
 
