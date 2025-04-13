@@ -1,20 +1,19 @@
-<h1 align="center">Salut, moi c'est Mattia 👋</h1>
+<h1 align="center">Bonjour, je m'appelle Mattia</h1>
 
 <p align="center">
-  Développeur web fullstack en pleine exploration 🔍 <br>
-  Fan de frontend et de backend, toujours un mug à la main 🍵
+  Développeur web fullstack, curieux et rigoureux.  
+  J’aime autant construire des interfaces soignées que concevoir des backends efficaces.
 </p>
 
 ---
 
 ## 🚀 À propos
 
-- 🎓 Formé à la [Wild Code School](https://www.wildcodeschool.com/) – promo 2025
-- 🧰 Je suis à l’aise en JS/TS, côté serveur (Express) et côté client (React)
-- 🎨 J'aime toujours autant peaufiner mes interfaces, progresser en CSS, et explorer des technos créatives
-- 📱 Je découvre aussi React Native et le monde du mobile
-- 🎯 En route vers : NestJS, PostgreSQL, ORM (Prisma / TypeORM), GSAP, Three.js...
-- ☕ Bon en vrai… c’est thé > café et ninjas > pirates
+- 🎓 Formation suivie à la [Wild Code School](https://www.wildcodeschool.com/) – promo 2025
+- 💻 À l’aise en JavaScript et TypeScript, côté serveur (Express) comme côté client (React)
+- 🎨 Intéressé par l’expérience utilisateur, le design d’interface, et les animations web
+- 📱 En cours d’exploration : React Native, NestJS, PostgreSQL, Prisma, Three.js, GSAP
+- 🧠 J’apprends par la pratique, en construisant des projets concrets et en explorant des technos modernes
 
 ---
 
@@ -35,31 +34,34 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Three.js (target)](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![GSAP (soon)](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 ---
 
 ## 📂 Projets en cours
 
-> 🚧 En construction — toujours en train d’apprendre et d’expérimenter.<br>
-> 🎯 J’apprends par la pratique : du code propre, une touche créa, et de plus en plus d’intéractions
+Je développe actuellement plusieurs projets personnels pour approfondir mes compétences et expérimenter avec de nouvelles technologies.  
+Je m'intéresse en particulier à :
+- la conception d’interfaces dynamiques et interactives
+- la mise en place d’architectures backend modernes
+- l’intégration d’animations et de visualisations web
+
+Chaque projet est l’occasion de renforcer mes bonnes pratiques et d’aller plus loin dans la qualité du code.
 
 ---
 
-## 🧠 Ambiance et univers
+## 🧭 Objectifs à court terme
 
-<p align="center">
-  <img src="https://c.tenor.com/8pd97a2u_r0AAAAd/tenor.gif" width="300" alt="Ghost in the Shell SAC" />
-</p>
-
-> *“Close the World, Open the nExt.”*  
-> — **Serial Experiments Lain**
+- Approfondir mon usage de TypeScript dans un cadre professionnel
+- Renforcer mes compétences sur les bases de données relationnelles (PostgreSQL)
+- Intégrer davantage d’outils d’animation web (GSAP, Three.js)
+- Me familiariser avec React Native et le développement mobile
 
 ---
 
 ## 📫 Me contacter
 
-- 📧 Email : mattia.bouvier@protonmail.com
-- 💼 LinkedIn : ???
+- Email : mattia.bouvier@protonmail.com
+- LinkedIn : à venir
