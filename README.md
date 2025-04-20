@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour, je m'appelle Mattia</h1>
 
 <p align="center">
-  Développeur web fullstack curieux, toujours en quête de progrès.  
+  Développeur web frontend et backend curieux, toujours en quête de progrès.  
   J’aime autant soigner les interfaces que concevoir des backends solides.
 </p>
 
