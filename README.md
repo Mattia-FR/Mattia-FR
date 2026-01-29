@@ -12,7 +12,7 @@
 - 🎓 Formé à la [Wild Code School](https://www.wildcodeschool.com/) – promo 2025  
 - 💻 Je travaille principalement avec JavaScript et TypeScript, aussi bien côté client (React) que côté serveur (Express)  
 - 🎨 Je m’intéresse beaucoup à l’expérience utilisateur, aux interfaces web et aux animations  
-- 📱 En ce moment, j’explore des technologies comme React Native, NestJS, PostgreSQL, Prisma, Three.js ou GSAP  
+- 📱 En ce moment, je travaille sur des projets full-stack, je découvre l'hébergement et le déploiement
 - 🧠 J’apprends surtout en construisant des projets concrets et en expérimentant avec des outils modernes
 
 ---
@@ -29,14 +29,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)  
-
-### En cours d’exploration  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)  
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=three.js&logoColor=white)  
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)  
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)  
 
 ---
 
@@ -55,13 +47,11 @@ Chaque projet est pour moi une opportunité de progresser, d’améliorer mes pr
 ## 🧭 Objectifs à court terme
 
 - Approfondir mon usage de TypeScript dans un cadre professionnel  
-- Gagner en aisance avec les bases de données relationnelles (notamment PostgreSQL)  
-- Explorer davantage les outils d’animation web comme GSAP et Three.js  
-- Découvrir le développement mobile avec React Native
+- Gagner en aisance avec les bases de données relationnelles
 
 ---
 
 ## 📫 Me contacter
 
 - 📧 Email : mattia.bouvier@protonmail.com  
-- 💼 LinkedIn : à venir
+- 💼 LinkedIn : www.linkedin.com/in/mattia-bouvier
